@@ -6,6 +6,8 @@ int main(){
     
     cout <<"hola mundo"<<endl;
     
+    cout <<"buenos dias"<<endl;
+    
     
     
     system("Pause");
