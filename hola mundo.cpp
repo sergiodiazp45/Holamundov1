@@ -8,6 +8,8 @@ int main(){
     
     cout <<"buenos dias"<<endl;
     
+    cout <<"buenas tardes"<<endl;
+    
     
     
     system("Pause");
