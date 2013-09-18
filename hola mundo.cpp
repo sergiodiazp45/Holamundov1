@@ -10,6 +10,8 @@ int main(){
     
     cout <<"buenas tardes"<<endl;
     
+    cout <<"nuevo mensaje"<<endl;
+    
     
     
     system("Pause");
